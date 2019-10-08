@@ -1,2 +1,2 @@
-# Warsztat_3
-Różne zadania i funkcjonalności z warsztatów numer 3.
+# Workshop #3
+Various tasks and functionalities from workshop #3.
